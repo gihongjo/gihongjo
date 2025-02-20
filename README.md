@@ -1,8 +1,6 @@
-![header](https://capsule-render.vercel.app/api?text=Hello%World!&fontAlignY=20)
-
 
 <h1 align="center">안녕하세요, 저는 조기홍입니다! 👋</h1>
-<p align="center"><strong>주니어 백엔드 개발자</strong> | 데이터와 서버로 세상을 연결합니다</p>
+<p align="center"><strong>주니어 백엔드 개발자</strong> | 백엔드와 데이터, 클라우드</p>
 <p align="center">RESTful API | Spring Boot | MSA | 클라우드 네이티브</p>
 
 ---
