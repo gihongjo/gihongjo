@@ -4,11 +4,11 @@
 - 🛠️ 백엔드 기술로 문제를 해결하는 것을 즐깁니다.
 
 ## 🛠️ 기술 스택
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
+>![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
+>![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring)
+>![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)
+>![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
+>![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes)
 ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apache-kafka)
 ---
