@@ -20,8 +20,8 @@
   - 🔗 [깃허브 링크]
 
 ## 📊 깃허브 통계
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[gihongjo]&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[gihongjo]&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=gihongjo&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gihongjo&layout=compact&theme=radical)
 
 ## 📫 연락처
 - 📧 이메일: [your.email@example.com]
