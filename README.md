@@ -3,8 +3,17 @@
 <p align="center"><strong>주니어 백엔드 개발자</strong> | 백엔드와 데이터, 클라우드를 사랑합니다.</p>
 <p align="center">RESTful API | Spring Boot | MSA | 클라우드 네이티브</p>
 
----
 
+
+
+---
+## 🎓 경험
+- **AIDIS 연구실 랩장**
+- **제8회 K-PaaS 공모전 팀장** (2024)
+- **Google Developer Students Clubs - Core Member**
+- **Comento Backend 직무 멘토링**
+
+---
 ## 🛠️ 기술 스택
 <p align="center">
   <a href="https://www.java.com/" target="_blank"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java"></a>
@@ -53,11 +62,7 @@
 
 ---
 
-## 🎓 경험
-- **AIDIS 연구실 랩장**
-- **제8회 K-PaaS 공모전 팀장** (2024)
-- **Google Developer Students Clubs - Core Member**
-- **Comento Backend 직무 멘토링**
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/xT1R9Z13dMqsATLrxe/giphy.gif" alt="Backend Vibes" width="200">
