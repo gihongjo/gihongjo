@@ -1,6 +1,5 @@
 
-![My Animation](https://raw.githubusercontent.com/gihongjo/gihongjo/main/assets/gihong-github.gif)
-
+![Profile Banner](https://raw.githubusercontent.com/gihongjo/gihongjo/main/assets/gihong-github.gif)
 
 
 <h1 align="center">안녕하세요, 저는 조기홍입니다! 👋</h1>
@@ -56,7 +55,6 @@
 
 ## 📊 깃허브 통계
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gihongjo&show_icons=true&theme=radical" alt="GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gihongjo&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
@@ -64,8 +62,6 @@
 
 ## 📫 연락처
 - **이메일**: [gihong0409@gmail.com](mailto:gihong0409@gmail.com)  
-
-
 ---
 
 
