@@ -18,15 +18,17 @@
 - **Comento Backend 직무 멘토링**
 
 ---
+
 ## 🛠️ 기술 스택
 <p align="center">
-  <a href="https://www.java.com/" target="_blank"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" width="80"></a>
-  <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" width="240"></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" width="120"></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" width="120"></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" width="120"></a>
-  <a href="https://kubernetes.io/" target="_blank"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" width="180"></a>
-  <a href="https://kafka.apache.org/" target="_blank"><img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Kafka" width="120"></a>
+  <a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/gihongjo/gihongjo/main/assets/icons/Java.png" alt="Java" width="80"></a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://raw.githubusercontent.com/gihongjo/gihongjo/main/assets/icons/Spring.png" alt="Spring Boot" width="80"></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/gihongjo/gihongjo/main/assets/icons/MySQL.png" alt="MySQL" width="80"></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/gihongjo/gihongjo/main/assets/icons/MongoDB.png" alt="MongoDB" width="80"></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/gihongjo/gihongjo/main/assets/icons/Docker.png" alt="Docker" width="80"></a>
+  <a href="https://kubernetes.io/" target="_blank"><img src="https://raw.githubusercontent.com/gihongjo/gihongjo/main/assets/icons/Kubernetes.png" alt="Kubernetes" width="80"></a>
+  <a href="https://kafka.apache.org/" target="_blank"><img src="https://raw.githubusercontent.com/gihongjo/gihongjo/main/assets/icons/Apache%20Kafka.png" alt="Kafka" width="80"></a>
+  <a href="https://flutter.dev/" target="_blank"><img src="https://raw.githubusercontent.com/gihongjo/gihongjo/main/assets/icons/Flutter.png" alt="Flutter" width="80"></a>
 </p>
 
 ---
