@@ -1,4 +1,8 @@
 
+![My Animation](https://raw.githubusercontent.com/gihongjo/gihongjo/main/assets/gihong-github.gif)
+
+
+
 <h1 align="center">안녕하세요, 저는 조기홍입니다! 👋</h1>
 <p align="center"><strong>주니어 백엔드 개발자</strong> | 백엔드와 데이터, 클라우드를 사랑합니다.</p>
 <p align="center">RESTful API | Spring Boot | MSA | 클라우드 네이티브</p>
