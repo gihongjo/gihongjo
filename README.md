@@ -5,19 +5,27 @@
 
 ## 🛠️ 기술 스택
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)
-
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes)
+![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apache-kafka)
+---
 ## 🚀 주요 프로젝트
-- **[E-Commerce Backend]**  
-  - 📝 설명: 사용자 인증과 결제 시스템을 포함한 전자상거래 백엔드  
-  - 🛠️ 사용 기술: Spring Boot, MySQL, JWT  
-  - 🔗 [깃허브 링크]
 
-- **[Real-Time Chat Server]**  
-  - 📝 설명: 실시간 채팅 기능을 구현한 서버 애플리케이션  
-  - 🛠️ 사용 기술: Node.js, MongoDB, Socket.io  
-  - 🔗 [깃허브 링크]
+### **[Will-Be: 특수아동 행동 개선 플랫폼]**  
+- 📝 **설명**: 특수아동(지적장애, 자폐성장애, 정서행동장애)의 문제 행동을 기록하고 분석하는 클라우드 기반 애플리케이션. 교사와 학부모가 행동 로그, 데일리 노트, 의사소통 사전을 통해 아동의 행동 패턴을 파악하고 LLM으로 개선 방안을 제안받을 수 있습니다.  
+- 🛠️ **사용 기술**: Java, Spring Boot, Spring Security, JWT, MySQL, ChatGPT API, Docker, Kubernetes, NaverCloud(K-PaaS)  
+- 💡 **기여**:  
+  - RESTful API 설계 및 구현 (Spring Boot 기반 MSA).  
+  - MySQL 데이터베이스 스키마 설계 및 행동 데이터 관리.  
+  - ChatGPT API를 활용한 행동 분석 기능 개발.  
+  - Kubernetes와 CI/CD 파이프라인(SourceCommit, SourceBuild, SourceDeploy) 구축.  
+- 🏆 **성과**: 제8회 K-PaaS 공모전 출품작 (한국클라우드산업협회장상 수상)  
+- 🔗 [GitHub](https://github.com/gihongjo/TeamA) | [APK 다운로드](https://drive.google.com/file/d/1LQ47RjRqX73JRwM--bDuj_z_4ilDkj1X/view?usp=drive_link)
+
+
 
 ## 📊 깃허브 통계
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=gihongjo&show_icons=true&theme=radical)
