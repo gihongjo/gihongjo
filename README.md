@@ -66,6 +66,3 @@
 
 
 
-<p align="center">
-  <img src="https://media.giphy.com/media/xT1R9Z13dMqsATLrxe/giphy.gif" alt="Backend Vibes" width="200">
-</p>
